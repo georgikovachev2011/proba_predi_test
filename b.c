@@ -16,7 +16,8 @@ int main(){
 
     int sum;
 
-    sum = a + b - c;
+    sum = a * b - c;
+
 
     printf("The sum is %d", sum);
 
