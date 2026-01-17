@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(){
-    printf("Kusmet");
+    printf("Ivo vchera pomogna mnogo");
 
     return 0;
 }
